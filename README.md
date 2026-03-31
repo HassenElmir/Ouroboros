@@ -23,7 +23,7 @@ A modern and feature-rich Snake game built with **Pygame**, combining classic ga
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/menu.png" width="45%" />
+  <img src="screenshots/main.png" width="45%" />
   <img src="screenshots/gameplay.png" width="45%" />
 </p>
 

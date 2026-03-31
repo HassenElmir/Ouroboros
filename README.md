@@ -129,6 +129,7 @@ If missing, the game will still run but without audio.
 ├── music.mp3
 ├── README.md
 └── tests/
+└── screenshots/
 
 
     

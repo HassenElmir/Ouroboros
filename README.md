@@ -124,17 +124,17 @@ If missing, the game will still run but without audio.
 
 ## 📁 Project Structure
 
-
-Ouroboros/
 ├── main.py
 ├── eat.wav
 ├── music.mp3
 ├── README.md
 └── tests/
-    ├── test_food.py
-    ├── test_food_type.py
-    ├── test_obstacles.py
-    └── test_riddles.py
+├── test_food.py
+├── test_food_type.py
+├── test_obstacles.py
+└── test_riddles.py
+
+    
 ## 🚀 Future Improvements
 
 * High score saving system

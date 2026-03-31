@@ -129,10 +129,7 @@ If missing, the game will still run but without audio.
 ├── music.mp3
 ├── README.md
 └── tests/
-├── test_food.py
-├── test_food_type.py
-├── test_obstacles.py
-└── test_riddles.py
+
 
     
 ## 🚀 Future Improvements

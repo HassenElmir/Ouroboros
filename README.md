@@ -20,6 +20,23 @@ A modern and feature-rich Snake game built with **Pygame**, combining classic ga
 * 🎨 Clean UI with menu system
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/menu.png" width="45%" />
+  <img src="screenshots/gameplay.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/multiplayer.png" width="45%" />
+  <img src="screenshots/riddle.png" width="45%" />
+</p>
+
+
+
+
+
+---
 
 ## 🕹️ Controls
 

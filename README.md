@@ -125,19 +125,6 @@ If missing, the game will still run but without audio.
 * More power-ups and levels
 * Boss fights or special challenges
 
----
-
-## 🧑‍💻 Author
-
-Created with ❤️ using Pygame.
-
----
-
-## 📜 License
-
-This project is open-source. Feel free to use and modify it.
-
----
 
 ## ⭐ Support
 

@@ -125,6 +125,7 @@ If missing, the game will still run but without audio.
 ## 📁 Project Structure
 
 
+Ouroboros/
 ├── main.py
 ├── eat.wav
 ├── music.mp3
@@ -134,7 +135,6 @@ If missing, the game will still run but without audio.
     ├── test_food_type.py
     ├── test_obstacles.py
     └── test_riddles.py
-
 ## 🚀 Future Improvements
 
 * High score saving system
